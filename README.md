@@ -1,1 +1,1 @@
-# Msquare_AjaxCustomPagination
+# Msquare AjaxCustomPagination
